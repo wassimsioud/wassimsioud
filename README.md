@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Wassim Sioud 👋
 
-<!--
-**wassimsioud/wassimsioud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student** | 💻 **Aspiring Developer** | 🚀 **Tech Enthusiast**
 
-Here are some ideas to get you started:
+I'm a dedicated software engineering student with a passion for learning and building projects that make an impact. My focus is on developing efficient, scalable solutions using modern technologies, and I enjoy both back-end and front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages**: Python, JavaScript, Java, C++
+- **Frameworks/Libraries**: React, Node.js, Express, Bootstrap
+- **Databases**: MySQL, MongoDB
+- **Other Tools**: Git, GitHub, VS Code, Docker
+
+## 🌱 Currently Learning
+
+- Advanced data structures and algorithms
+- Full-stack development with MERN stack
+- Cloud computing fundamentals
+
+Check out my repositories for my projects!
+
+## 📫 Let's Connect!
+
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/wassimsioud)
+- Email: your-email@example.com
