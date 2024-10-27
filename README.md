@@ -7,7 +7,7 @@ I'm a dedicated software engineering student with a passion for learning and bui
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python, JavaScript, Java, C++
-- **Frameworks/Libraries**: React, Node.js, Express, Bootstrap
+- **Frameworks/Libraries**: React, Angular, Node.js, Express, Bootstrap
 - **Databases**: MySQL, MongoDB
 - **Other Tools**: Git, GitHub, VS Code, Docker
 
@@ -21,5 +21,6 @@ Check out my repositories for my projects!
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/wassimsioud)
-- Email: your-email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wassimsioud)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wassim.sioud@polytechnicien.tn)
+
