@@ -7,7 +7,7 @@ I'm a dedicated software engineering student with a passion for learning and bui
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python, JavaScript, Java, C++
-- **Frameworks/Libraries**: React, Angular, Node.js, Express, Bootstrap,Tailwind
+- **Frameworks/Libraries**: React, Angular, Node.js, Express, Bootstrap, Tailwind
 - **Databases**: MySQL, MongoDB
 - **Other Tools**: Git, GitHub, VS Code, Docker
 
